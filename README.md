@@ -3,17 +3,17 @@ Web del alumno con bootstrap
 Componentes usado:
 
 1- Alerts <br>
-2- Badges
-3- Breadcrumb
-4- Buttons
-5- Cards
-6- Carrousel
-7- Collapse
-8- Acordion
-9- Form
-10- Navbar
-11- Pagonation
-12- Popovers
-13- Progress
-14- Tooltips
-15- Table
+2- Badges <br>
+3- Breadcrumb <br>
+4- Buttons <br>
+5- Cards <br>
+6- Carrousel <br>
+7- Collapse <br>
+8- Acordion <br>
+9- Form <br>
+10- Navbar <br>
+11- Pagonation <br>
+12- Popovers <br>
+13- Progress <br>
+14- Tooltips <br>
+15- Table <br>
