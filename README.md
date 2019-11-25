@@ -2,7 +2,7 @@
 Web del alumno con bootstrap
 Componentes usado:
 
-1- Alerts
+1- Alerts <br>
 2- Badges
 3- Breadcrumb
 4- Buttons
